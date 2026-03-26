@@ -5,7 +5,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer+%7C+DSA+Learner;LeetCode+Daily+Grinder;Future+AI+Engineer+🚀;Building+My+Dream+Career" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer+%7C+DSA+Learner;LeetCode+Daily+Grinder;Future+AI+Engineer+🚀;Consistency+%3D+Success" />
 </p>
 
 <h3 align="center">🚀 BTech CSE Student | 💻 Java Developer | 🤖 AI Explorer</h3>
@@ -23,7 +23,6 @@
 ---
 
 ## 🛠️ Tech Stack  
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,git,github,vscode,idea&perline=6" />
 </p>
@@ -54,14 +53,27 @@
 
 ---
 
-## 🔥 LeetCode Stats  
+<h2 align="center">⚡ LeetCode Grind Never Stops</h2>
+
+## 🔥 LeetCode Journey  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yatharthkashyap66?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/yatharthkashyap66?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 <p align="center">
-  <img src="https://leetcode-streak-stats.vercel.app/?user=yatharthkashyap66&theme=dark" />
+  <img src="https://leetcode-streak-stats.vercel.app/?user=yatharthkashyap66&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### 🚀 My Progress  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-26+-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Easy-21-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medium-5-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hard-0-red?style=for-the-badge"/>
 </p>
 
 ---
