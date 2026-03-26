@@ -9,7 +9,7 @@
 - 💻 Strong focus on **Java + Data Structures & Algorithms**  
 - 🤖 Exploring **Artificial Intelligence & Machine Learning**  
 - 🎯 Goal: Crack **high-paying tech roles (10+ LPA)**  
-- 📈 Currently improving **problem-solving & real-world projects**  
+- 📈 Improving problem-solving & building real-world projects  
 
 ---
 
@@ -46,8 +46,7 @@
 ---
 
 ### 📌 DEADPOOL (Java Project)  
-🔹 Fun + logic-building project  
-🔹 Strengthens core Java concepts  
+🔹 Fun + logic-building  
 
 ---
 
@@ -59,9 +58,23 @@
 
 ## 📊 GitHub Stats  
 
-![Yatharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatharthkashyap22-lab&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yatharthkashyap22-lab&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthkashyap22-lab&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthkashyap22-lab&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yatharthkashyap22-lab&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yatharthkashyap22-lab&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -69,6 +82,11 @@
 - 📌 Mastering **DSA (LeetCode + Coding Practice)**  
 - 📌 Building **real-world Java projects**  
 - 📌 Starting **AI/ML journey**  
+
+---
+
+## 👀 Profile Views  
+![](https://komarev.com/ghpvc/?username=yatharthkashyap22-lab&color=blue)
 
 ---
 
