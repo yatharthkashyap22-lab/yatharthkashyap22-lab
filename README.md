@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Yatharth Kashyap
 
-<!--
-**yatharthkashyap22-lab/yatharthkashyap22-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student | 💻 Java Developer | 🚀 Learning AI & Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🌱 Currently learning: Data Structures, Java, and AI basics  
+- 💡 Interested in: Software Development & Artificial Intelligence  
+- 🎯 Goal: To become a skilled developer and crack high-paying tech jobs  
+- 📍 Location: India  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Java, C  
+- 📚 Concepts: Data Structures & Algorithms (DSA)  
+- 🌐 Tools: Git, GitHub  
+- 🛠️ IDEs: VS Code, IntelliJ IDEA  
+
+---
+
+## 📂 Projects
+
+### 📌 Smart Library System
+- A system to manage books, users, and issue records  
+- Built using Java  
+- Focus on real-world problem solving  
+
+---
+
+### 📌 Portfolio Website
+- Personal portfolio to showcase skills and projects  
+- Clean UI and simple structure  
+
+---
+
+### 📌 DEADPOOL (Java Project) 
+- Used to improve coding skills  
+
+---
+
+### 📌 Bridgelabz Training
+- Practice programs and training assignments  
+- Covers Java fundamentals and logic building  
+
+---
+
+## 📊 GitHub Stats
+- 🔹 Active learner and growing developer  
+- 🔹 Regularly practicing coding problems  
+- 🔹 Building projects to improve skills  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/yatharthkashyap22-lab  
+
+---
+
+## ⚡ Fun Fact
+> "Consistency beats talent when talent doesn’t work hard."
+
+---
+
+⭐ Don't forget to star repositories if you like them!
