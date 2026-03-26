@@ -1,24 +1,24 @@
-<!-- 🔥 Gradient Header -->
+<!-- 🌊 TOP HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077B5&height=180&section=header&text=Yatharth%20Kashyap&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077B5&height=190&section=header&text=Yatharth%20Kashyap&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer+%7C+DSA+Learner;Future+AI+Engineer+🚀;Building+Skills+Daily;Consistency+%3D+Success" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer+%7C+DSA+Learner;Future+AI+Engineer+🚀;LeetCode+Daily+Grinder;Building+My+Dream+Career" />
 </p>
 
-<h3 align="center">🚀 BTech CSE Student | 💻 Java Developer | 🤖 AI Enthusiast</h3>
+<h3 align="center">🚀 BTech CSE Student | 💻 Java Developer | 🤖 AI Explorer</h3>
 
 ---
 
 ## 🧠 About Me  
-✨ Passionate about coding and continuous learning  
+✨ Passionate about coding & self-growth  
 🎓 B.Tech CSE Student  
-💻 Strong in **Java + Data Structures**  
-🤖 Exploring **AI & Machine Learning**  
-🎯 Goal: **10+ LPA Software Engineer**  
-⚡ Believe in: *Consistency > Motivation*  
+💻 Strong in **Java + DSA**  
+🤖 Learning **AI & Machine Learning**  
+🎯 Target: **10+ LPA Job**  
+⚡ *Consistency > Motivation*  
 
 ---
 
@@ -32,12 +32,12 @@
 
 ## 🚀 Projects  
 
-| Project | Description |
-|--------|------------|
-| 📚 Smart Library System | Java-based system for managing books & users |
-| 🌐 Portfolio Website | Personal portfolio showcasing my skills |
-| 🦸 DEADPOOL Project | Java logic-building project |
-| 🧪 Bridgelabz Training | Practice programs & assignments |
+| 💡 Project | 📄 Description |
+|----------|--------------|
+| 📚 Smart Library System | Java system for managing books & users |
+| 🌐 Portfolio Website | Personal portfolio |
+| 🦸 DEADPOOL Project | Java logic building |
+| 🧪 Bridgelabz Training | Practice programs |
 
 ---
 
@@ -54,6 +54,18 @@
 
 ---
 
+## 🔥 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-streak-stats.vercel.app/?user=YOUR_LEETCODE_USERNAME&theme=dark" />
+</p>
+
+---
+
 ## 🏆 Achievements  
 
 <p align="center">
@@ -65,6 +77,6 @@
 ## 🔥 Current Focus  
 
 ```diff
-+ 📌 Solving DSA problems daily (LeetCode)
-+ 📌 Building real-world Java projects
-+ 📌 Starting AI/ML journey
++ 📌 Daily LeetCode Practice (DSA)
++ 📌 Building Java Projects
++ 📌 Exploring AI/ML
