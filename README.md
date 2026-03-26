@@ -1,4 +1,4 @@
-<!-- 🌊 Header -->
+<!-- 🌊 PREMIUM HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077B5&height=180&section=header&text=Yatharth%20Kashyap&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -17,7 +17,7 @@
 ---
 
 ## 🧠 About Me  
-✨ Passionate about coding & growth  
+✨ Passionate about coding & continuous learning  
 🎓 B.Tech CSE Student  
 💻 Focused on **Java + DSA**  
 🤖 Exploring **AI/ML**  
@@ -53,18 +53,18 @@
 </p>
 
 <p align="center">
-  <!-- ✅ FIXED STREAK LINK -->
+  <!-- ✅ FIXED -->
   <img height="160" src="https://streak-stats.demolab.com?user=yatharthkashyap22-lab&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h2 align="center">🔥 LeetCode Journey</h2>
+## 🔥 LeetCode Journey (NEW)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Grinding-orange?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/Consistency-Daily-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-DSA-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeetCode-Daily%20Grind-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Consistency-Strong-success?style=for-the-badge"/>
 </p>
 
 <p align="center">
