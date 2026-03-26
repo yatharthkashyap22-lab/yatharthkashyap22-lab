@@ -53,13 +53,33 @@
 
 ---
 
-<h2 align="center">⚡ LeetCode Grind Never Stops</h2>
-
-## 🔥 LeetCode Journey  
+<h2 align="center">🚀 LeetCode Command Center</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yatharthkashyap66?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://img.shields.io/badge/LeetCode-Grinding-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Consistency-Daily-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-DSA-success?style=for-the-badge"/>
 </p>
+
+---
+
+## 🔥 Performance Dashboard  
+
+<p align="center">
+  <img height="180" src="https://leetcard.jacoblin.cool/yatharthkashyap66?theme=dark&font=Karma&ext=contest" />
+</p>
+
+---
+
+## 📈 Coding Heatmap  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yatharthkashyap66?theme=dark&ext=heatmap" />
+</p>
+
+---
+
+## ⚡ Streak Power  
 
 <p align="center">
   <img src="https://leetcode-streak-stats.vercel.app/?user=yatharthkashyap66&theme=dark&hide_border=true" />
@@ -67,13 +87,21 @@
 
 ---
 
-### 🚀 My Progress  
+## 🧠 Problem Breakdown  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-26+-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Easy-21-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Medium-5-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hard-0-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-26+-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Easy-21-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medium-5-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hard-0-FF3D00?style=for-the-badge"/>
+</p>
+
+---
+
+## 🎯 Mission 100  
+
+<p align="center">
+  <img src="https://progress-bar.dev/26/?scale=100&title=Progress&width=500&color=00F7FF"/>
 </p>
 
 ---
