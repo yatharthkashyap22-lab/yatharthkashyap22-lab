@@ -1,11 +1,11 @@
-<!-- 🌊 TOP HEADER -->
+<!-- 🌊 PREMIUM HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077B5&height=190&section=header&text=Yatharth%20Kashyap&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer+%7C+DSA+Learner;Future+AI+Engineer+🚀;LeetCode+Daily+Grinder;Building+My+Dream+Career" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer+%7C+DSA+Learner;LeetCode+Daily+Grinder;Future+AI+Engineer+🚀;Building+My+Dream+Career" />
 </p>
 
 <h3 align="center">🚀 BTech CSE Student | 💻 Java Developer | 🤖 AI Explorer</h3>
@@ -13,11 +13,11 @@
 ---
 
 ## 🧠 About Me  
-✨ Passionate about coding & self-growth  
+✨ Passionate about coding & growth  
 🎓 B.Tech CSE Student  
 💻 Strong in **Java + DSA**  
-🤖 Learning **AI & Machine Learning**  
-🎯 Target: **10+ LPA Job**  
+🤖 Learning **AI/ML**  
+🎯 Goal: **10+ LPA Software Engineer**  
 ⚡ *Consistency > Motivation*  
 
 ---
@@ -34,9 +34,9 @@
 
 | 💡 Project | 📄 Description |
 |----------|--------------|
-| 📚 Smart Library System | Java system for managing books & users |
+| 📚 Smart Library System | Java-based system for managing books |
 | 🌐 Portfolio Website | Personal portfolio |
-| 🦸 DEADPOOL Project | Java logic building |
+| 🦸 DEADPOOL Project | Java logic-building |
 | 🧪 Bridgelabz Training | Practice programs |
 
 ---
@@ -57,11 +57,11 @@
 ## 🔥 LeetCode Stats  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/yatharthkashyap66?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 <p align="center">
-  <img src="https://leetcode-streak-stats.vercel.app/?user=YOUR_LEETCODE_USERNAME&theme=dark" />
+  <img src="https://leetcode-streak-stats.vercel.app/?user=yatharthkashyap66&theme=dark" />
 </p>
 
 ---
@@ -77,6 +77,6 @@
 ## 🔥 Current Focus  
 
 ```diff
-+ 📌 Daily LeetCode Practice (DSA)
-+ 📌 Building Java Projects
-+ 📌 Exploring AI/ML
++ 📌 Daily LeetCode Practice
++ 📌 Java Development Projects
++ 📌 AI/ML Learning
