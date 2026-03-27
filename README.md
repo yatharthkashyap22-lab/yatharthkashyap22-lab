@@ -1,87 +1,126 @@
-<!-- Banner / Typing Animation -->
+<!-- 🌌 Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Yatharth+Kashyap+👋;Java+Developer+💻;DSA+Learner+🚀;Future+AI+Engineer+🤖;Consistency+%3D+Success" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=200&section=header&text=Yatharth%20Kashyap&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</p>
+
+<!-- 👾 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer+💻;DSA+Learner+🚀;Future+AI+Engineer+🤖;Consistency+%3D+Success;Building+My+Dream+Career+🔥"/>
 </p>
 
 ---
 
-# 👨‍💻 Yatharth Kashyap
-
-🎓 B.Tech CSE Student  
-💻 Java Developer | DSA Learner  
-🚀 Passionate about AI & Problem Solving  
-
----
-
-## 🚀 About Me
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 💡 Interested in **AI, Machine Learning & Development**
-- 🎯 Goal: Become a **Top Software Engineer**
-- ⚡ Fun fact: I believe in **Consistency over Motivation**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 📚 Currently Learning
-![DSA](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge)
-
-### 🧰 Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+# 👨‍💻 Hey, I'm Yatharth 👋  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  🚀 Passionate Developer | 💻 Java | 📊 DSA | 🤖 AI Enthusiast  
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 🌟 About Me
+
+✨ I am a **B.Tech CSE student** who loves solving problems  
+📚 Currently mastering **Data Structures & Algorithms**  
+🎯 Dream: Crack **Top Product-Based Companies**  
+⚡ Mindset: *Discipline > Motivation*
+
+---
+
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=java,c,git,github,vscode&theme=dark" />
+
 </p>
 
 ---
 
-## 🔥 Projects
+## 🚀 Coding Profiles
 
-- 🚀 **Project 1** – Short description  
-- 💡 **Project 2** – Short description  
-- 📱 **Project 3** – Short description  
+<p align="center">
+  <a href="https://leetcode.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" height="170"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 Solved **XXX+ DSA Problems**  
+🏆 Active on **LeetCode & GFG**  
+🚀 Building strong problem-solving skills  
+
+---
+
+## 🔥 Featured Projects
+
+### 💡 Project 1
+🚀 Description of your project  
+🔗 Link  
+
+### 📱 Project 2
+💡 Description  
+🔗 Link  
+
+### 🤖 Project 3
+AI-based idea  
+🔗 Link  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Quote
+## 💬 Dev Quote
 
-> "Success doesn’t come from what you do occasionally, it comes from what you do consistently."
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ *If you like my work, consider giving a star!*
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<!-- 🌊 Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
+</p>
