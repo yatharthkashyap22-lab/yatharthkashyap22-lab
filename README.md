@@ -20,17 +20,16 @@
 
 ## 👨‍💻 About Me
 I’m a **problem solver & student** passionate about **C, Java, OOPs, and DSA**.  
-I love solving challenging coding problems and building projects that help me grow as a developer.  
+I enjoy tackling challenging coding problems and building projects that showcase my skills.  
 
 - 🔭 Currently exploring **Advanced DSA & Competitive Programming**  
-- 🌱 Improving skills in **Java, OOP, and C programming**  
+- 🌱 Improving my skills in **Java, OOP, and C programming**  
 - 💬 Ask me about **DSA, problem solving, and coding tips**  
 
 ---
 
 ## 🛠️ Skills & Tools
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-FF69B4?style=for-the-badge" />
@@ -42,18 +41,24 @@ I love solving challenging coding problems and building projects that help me gr
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects Showcase
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **DSA Practice Hub** | Solved DSA problems & notes | [GitHub](https://github.com/yatharthkashyap22-lab) |
-| **Java OOP Projects** | Small projects to master OOP concepts | [GitHub](https://github.com/yatharthkashyap22-lab) |
-| **C Programs Collection** | Collection of important C programs | [GitHub](https://github.com/yatharthkashyap22-lab) |
+<p align="center">
+  <a href="https://github.com/yatharthkashyap22-lab">
+    <img src="https://img.shields.io/badge/DSA_Practice_Hub-View_Repo-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yatharthkashyap22-lab">
+    <img src="https://img.shields.io/badge/Java_OOP_Projects-View_Repo-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yatharthkashyap22-lab">
+    <img src="https://img.shields.io/badge/C_Programs_Collection-View_Repo-green?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 🏆 Achievements & Certificates
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/DSA-Certificate-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-Certificate-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge" />
@@ -78,8 +83,9 @@ I love solving challenging coding problems and building projects that help me gr
 ---
 
 ## 💬 Let’s Connect
-
 I’m always excited to connect with other coders & learners!  
 
 📫 **Email:** yatharthkashyap22@gmail.com  
 🌐 **LinkedIn:** [Yatharth Kashyap](https://www.linkedin.com/in/yatharth-kashyap-817167396)  
+
+---
