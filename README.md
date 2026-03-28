@@ -1,6 +1,7 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Yatharth Kashyap</h1>
-<h3 align="center">Problem Solver | Student</h3>
+<!-- Typing Animation / Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Yatharth+Kashyap;Problem+Solver+%7C+Student;C+%7C+Java+%7C+DSA+Enthusiast;Always+Learning+%26+Coding+🚀" />
+</p>
 
 <!-- Social Links -->
 <p align="center">
@@ -20,28 +21,47 @@
 ---
 
 ## 👨‍💻 About Me
-I am a passionate **problem solver** and student who loves to explore **DSA, C, Java, and OOPs concepts**.  
-I enjoy tackling challenging coding problems and learning new technologies to grow my skills.
+I’m a **problem solver and student** passionate about **C, Java, OOPs, and DSA**.  
+I love tackling challenging coding problems and continuously improving my skills.  
 
-- 🔭 I’m currently learning **Advanced DSA & Competitive Programming**  
-- 🌱 I’m improving my skills in **OOP, Java, and C programming**  
-- 💬 Ask me about **C, Java, DSA, and coding problem solving**
+- 🔭 Currently working on **Advanced DSA & Competitive Programming**  
+- 🌱 Learning **Algorithms, OOP, and System Design basics**  
+- 💬 Ask me about **C, Java, and coding problem solving**  
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
 ### 💻 Languages
-**C | Java | OOPs Concepts | DSA**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOPs-ff4500?style=for-the-badge" />
+</p>
 
-### ⚙️ Tools & Concepts
-**Problem Solving | Algorithms | Data Structures**
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **DSA Practice Hub** | Repository with solved DSA problems & notes | [GitHub](https://github.com/yatharthkashyap22-lab) |
+| **Java OOP Projects** | Small OOP projects to understand concepts | [GitHub](https://github.com/yatharthkashyap22-lab) |
+| **C Programs Collection** | Collection of important C programs | [GitHub](https://github.com/yatharthkashyap22-lab) |
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yatharthkashyap22-lab&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yatharthkashyap22-lab&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -51,7 +71,8 @@ I enjoy tackling challenging coding problems and learning new technologies to gr
 ---
 
 ## 💬 Let’s Connect
-I’m always excited to connect with fellow coders and learners!  
+
+I’m always happy to connect with other coders!  
 
 📫 **Email:** yatharthkashyap22@gmail.com  
 🌐 **LinkedIn:** [Yatharth Kashyap](https://www.linkedin.com/in/yatharth-kashyap-817167396)  
