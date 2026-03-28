@@ -20,39 +20,24 @@
 
 ## 👨‍💻 About Me
 I’m a **problem solver & student** passionate about **C, Java, OOPs, and DSA**.  
-I enjoy solving challenging coding problems, building projects, and learning new tech.  
+I love solving challenging coding problems and building projects that help me grow as a developer.  
 
-- 🔭 Currently learning **Advanced DSA & Competitive Programming**  
-- 🌱 Improving my skills in **OOP, Java, and C programming**  
+- 🔭 Currently exploring **Advanced DSA & Competitive Programming**  
+- 🌱 Improving skills in **Java, OOP, and C programming**  
 - 💬 Ask me about **DSA, problem solving, and coding tips**  
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-FF69B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOPs-FF4500?style=for-the-badge" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-## 🏆 Achievements & Certificates
-<p>
-  <img src="https://img.shields.io/badge/DSA-Certificate-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-Certificate-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem+Solving-BrightGreen?style=for-the-badge" />
 </p>
 
 ---
@@ -63,7 +48,17 @@ I enjoy solving challenging coding problems, building projects, and learning new
 |---------|-------------|------|
 | **DSA Practice Hub** | Solved DSA problems & notes | [GitHub](https://github.com/yatharthkashyap22-lab) |
 | **Java OOP Projects** | Small projects to master OOP concepts | [GitHub](https://github.com/yatharthkashyap22-lab) |
-| **C Programs Collection** | Important C programs repository | [GitHub](https://github.com/yatharthkashyap22-lab) |
+| **C Programs Collection** | Collection of important C programs | [GitHub](https://github.com/yatharthkashyap22-lab) |
+
+---
+
+## 🏆 Achievements & Certificates
+<p>
+  <img src="https://img.shields.io/badge/DSA-Certificate-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Certificate-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem+Solving-BrightGreen?style=for-the-badge" />
+</p>
 
 ---
 
@@ -79,22 +74,6 @@ I enjoy solving challenging coding problems, building projects, and learning new
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthkashyap22-lab&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🔥 Skills Progress Bars
-
-**C**  
-<kbd>██████████░░░░░░░░</kbd> 60%  
-
-**Java**  
-<kbd>████████████░░░░░░</kbd> 70%  
-
-**DSA**  
-<kbd>██████████████░░░░</kbd> 80%  
-
-**OOPs**  
-<kbd>█████████████░░░░░</kbd> 75%  
 
 ---
 
