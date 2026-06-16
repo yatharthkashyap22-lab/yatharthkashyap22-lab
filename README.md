@@ -1,189 +1,91 @@
-````md
-<!-- ========================= HEADER ========================= -->
+<!-- Typing Animation / Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Yatharth+Kashyap;Problem+Solver+%7C+Student;C+%7C+Java+%7C+DSA+Enthusiast;Always+Learning+%26+Coding+🚀" />
+</p>
 
-<div align="center">
-
-# ⚡ YATHARTH KASHYAP ⚡
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Yatharth+Kashyap;Problem+Solver+%7C+Student;C+%7C+Java+%7C+DSA+Enthusiast;Always+Learning+%26+Coding+🚀;Future+Software+Engineer" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=yatharthkashyap22-lab&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/yatharthkashyap22-lab?style=for-the-badge&color=39FF14" />
-<img src="https://img.shields.io/github/stars/yatharthkashyap22-lab?style=for-the-badge&color=FFD700" />
-
-</div>
-
----
-
-# 💻 $ whoami
-
-```bash
-> Initializing Developer Profile...
-
-Name        : Yatharth Kashyap
-Role        : Student & Problem Solver
-College     : GLA University, Mathura
-Branch      : B.Tech CSE (AI & Data Science)
-Year        : 2nd Year
-CGPA        : 7.0
-
-Status      : Learning | Building | Growing 🚀
-```
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/yatharth-kashyap-817167396">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yatharthkashyap22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yatharthkashyap22-lab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
+I’m a **problem solver & student** passionate about **C, Java, OOPs, and DSA**.  
+I enjoy tackling challenging coding problems and building projects that showcase my skills.  
 
-```yaml
-name: Yatharth Kashyap
-role:
-  - Problem Solver
-  - Future Software Engineer
-  - DSA Enthusiast
-
-currently_learning:
-  - Data Structures & Algorithms
-  - Object Oriented Programming
-  - Competitive Programming
-  - Full Stack Development
-
-interests:
-  - Problem Solving
-  - Software Development
-  - Artificial Intelligence
-  - Open Source
-
-motto:
-  "Code. Learn. Build. Repeat."
-```
+- 🔭 Currently exploring **Advanced DSA & Competitive Programming**  
+- 🌱 Improving my skills in **Java, OOP, and C programming**  
+- 💬 Ask me about **DSA, problem solving, and coding tips**  
 
 ---
 
-# 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,java,python,git,github,vscode,linux&perline=7" />
-
-</div>
-
----
-
-# ⚔️ Competitive Programming
-
-<div align="center">
-
-<a href="https://leetcode.com/u/yatharthkashyap66/">
-<img src="https://img.shields.io/badge/LeetCode-Solving%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces"/>
-</a>
-
-</div>
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOPs-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-# 🎯 Current Goals
+## 🚀 Projects Showcase
 
-```text
-[███████░░░] Master Data Structures & Algorithms
-[██████░░░░] Competitive Programming
-[█████░░░░░] Full Stack Development
-[████░░░░░░] Open Source Contributions
-[████░░░░░░] Build Real World Projects
-```
-
----
-
-# 📂 Projects Showcase
-
-🚧 DSA Practice Hub  
-🚧 Java OOP Projects  
-🚧 C Programs Collection  
-🚧 Personal Portfolio (Coming Soon)
+<p align="center">
+  <a href="https://github.com/yatharthkashyap22-lab">
+    <img src="https://img.shields.io/badge/DSA_Practice_Hub-View_Repo-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yatharthkashyap22-lab">
+    <img src="https://img.shields.io/badge/Java_OOP_Projects-View_Repo-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yatharthkashyap22-lab">
+    <img src="https://img.shields.io/badge/C_Programs_Collection-View_Repo-green?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-# 🏆 Achievements
-
-🏅 Problem Solving Enthusiast  
-🏅 DSA Learner  
-🏅 Java & OOP Practitioner  
-🏅 Consistent Learner 🚀
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yatharthkashyap22-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yatharthkashyap22-lab&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthkashyap22-lab&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+## 🏆 Achievements & Certificates
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Certificate-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Certificate-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem+Solving-BrightGreen?style=for-the-badge" />
+</p>
 
 ---
 
-# 📈 Contribution Graph
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yatharthkashyap22-lab&show_icons=true&theme=tokyonight&hide_border=false" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatharthkashyap22-lab&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yatharthkashyap22-lab&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthkashyap22-lab&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 💬 Let’s Connect
+I’m always excited to connect with other coders & learners!  
 
-<div align="center">
-
-<a href="mailto:yatharthkashyap22@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yatharth-kashyap-817167396">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yatharthkashyap22-lab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/yatharthkashyap66/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</div>
+📫 **Email:** yatharthkashyap22@gmail.com  
+🌐 **LinkedIn:** [Yatharth Kashyap](https://www.linkedin.com/in/yatharth-kashyap-817167396)  
 
 ---
-
-<div align="center">
-
-### 💬 Dev Quote
-
-> "Code. Learn. Build. Repeat."
-
-### ⚡ Building the Future, One Commit at a Time ⚡
-
-</div>
-````
