@@ -1,292 +1,92 @@
-<!-- ======================================================= -->
-<!--                    HERO SECTION                         -->
-<!-- ======================================================= -->
 
-<h1 align="center">Hi 👋, I'm Yatharth Kashyap</h1>
-
-<h3 align="center">
-  B.Tech CSE Student | Java Developer | DSA Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+%7C+DSA+%7C+OOP;Problem+Solver+%7C+Developer;Building+Projects+%26+Learning+Every+Day;Future+Software+Engineer+🚀" />
+<!-- Typing Animation / Intro --> 
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Yatharth+Kashyap;Problem+Solver+%7C+Student;C+%7C+Java+%7C+DSA+Enthusiast;Always+Learning+%26+Coding+🚀" />
 </p>
 
-<!-- ======================================================= -->
-<!--                   SOCIAL LINKS                          -->
-<!-- ======================================================= -->
-
+<!-- Social Links -->
 <p align="center">
-
-<a href="https://www.linkedin.com/in/yatharth-kashyap-817167396">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yatharthkashyap22@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yatharthkashyap22-lab">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/yatharth-kashyap-817167396">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yatharthkashyap22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yatharthkashyap22-lab">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
-
-<!-- ======================================================= -->
-<!--                     ABOUT ME                            -->
-<!-- ======================================================= -->
 
 ## 👨‍💻 About Me
+I’m a **problem solver & student** passionate about **C, Java, OOPs, and DSA**.  
+I enjoy tackling challenging coding problems and building projects that showcase my skills.  
 
-I'm a **B.Tech Computer Science student** passionate about software
-development, problem solving, and building practical projects.
-
-- 🎓 Pursuing **B.Tech in Computer Science**
-- 💻 Currently focusing on **Java & Data Structures and Algorithms**
-- 🧠 Interested in **Software Development, AI & Data Science**
-- 🚀 Building projects to strengthen my development skills
-- 📈 Continuously improving my problem-solving abilities
-- 🎯 Goal: Become a strong **Software Engineer**
+- 🔭 Currently exploring **Advanced DSA & Competitive Programming**  
+- 🌱 Improving my skills in **Java, OOP, and C programming**  
+- 💬 Ask me about **DSA, problem solving, and coding tips**  
 
 ---
 
-<!-- ======================================================= -->
-<!--                   TECH STACK                            -->
-<!-- ======================================================= -->
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,python" />
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOPs-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### 🌐 Web & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript" />
-</p>
-
-### 🗄️ Databases & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
-
-### 🧠 Core Concepts
-
-`Data Structures & Algorithms` • `Object-Oriented Programming` • `Problem Solving` • `SQL` • `Git`
-
 ---
 
-<!-- ======================================================= -->
-<!--                 CURRENTLY LEARNING                      -->
-<!-- ======================================================= -->
-
-## 📚 Currently Learning
-
-- ☕ Advanced **Java**
-- 🧩 **Data Structures & Algorithms**
-- 🌐 **Full Stack Development**
-- 🤖 **Artificial Intelligence**
-- 🗄️ **SQL & Databases**
-- 💡 Competitive Programming & Problem Solving
-
----
-
-<!-- ======================================================= -->
-<!--                 FEATURED PROJECTS                       -->
-<!-- ======================================================= -->
-
-## 🚀 Featured Projects
-
-### 🎯 Job Career Pulse AI
-
-An AI-powered platform designed to help users discover suitable
-career opportunities and improve their job readiness.
-
-**Tech:** AI • Web Development • APIs
-
-🔗 **[View Project](YOUR_REPO_LINK)**
-
----
-
-### 🧠 Placement Preparation Hub
-
-A platform focused on helping students prepare for placements through
-topic-wise DSA questions, quizzes, notes, and progress tracking.
-
-**Tech:** Java • DSA • Web Development
-
-🔗 **[View Project](YOUR_REPO_LINK)**
-
----
-
-### 🎬 AI Video Editor
-
-A modern browser-based video editing platform designed to provide
-powerful editing features through an easy-to-use interface.
-
-**Tech:** React • Next.js • TypeScript • AI
-
-🔗 **[View Project](YOUR_REPO_LINK)**
-
----
-
-### 🤖 AI-Powered Translator
-
-An AI-powered translation application designed to translate text
-between different languages with a simple and user-friendly interface.
-
-**Tech:** AI • APIs • Web Development
-
-🔗 **[View Project](YOUR_REPO_LINK)**
-
----
-
-<!-- ======================================================= -->
-<!--                  CODING PROFILES                        -->
-<!-- ======================================================= -->
-
-## 💻 Coding Profiles
+## 🚀 Projects Showcase
 
 <p align="center">
-
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/yatharthkashyap22-lab">
-<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yatharth-kashyap-817167396">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
+  <a href="https://github.com/yatharthkashyap22-lab">
+    <img src="https://img.shields.io/badge/DSA_Practice_Hub-View_Repo-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yatharthkashyap22-lab">
+    <img src="https://img.shields.io/badge/Java_OOP_Projects-View_Repo-orange?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/yatharthkashyap22-lab">
+    <img src="https://img.shields.io/badge/C_Programs_Collection-View_Repo-green?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-<!-- ======================================================= -->
-<!--                   GITHUB STATS                         -->
-<!-- ======================================================= -->
-
-## 📊 GitHub Analytics
-
+## 🏆 Achievements & Certificates
 <p align="center">
+  <img src="https://img.shields.io/badge/DSA-Certificate-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Certificate-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem+Solving-BrightGreen?style=for-the-badge" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yatharthkashyap22-lab&show_icons=true&theme=tokyonight&hide_border=true" />
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yatharthkashyap22-lab&show_icons=true&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yatharthkashyap22-lab&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatharthkashyap22-lab&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthkashyap22-lab&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthkashyap22-lab&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- ======================================================= -->
-<!--                ACHIEVEMENTS                             -->
-<!-- ======================================================= -->
+## 💬 Let’s Connect
+I’m always excited to connect with other coders & learners!  
 
-## 🏆 Certifications & Achievements
-
-- 🏅 **Certificate of Participation — Escalate X V2, GLA University | 2025**
-- 📜 **Java Certification** — Add certificate link
-- 📜 **DSA Certification** — Add certificate link
-- 📜 **C Programming Certification** — Add certificate link
-- 🏆 **Problem Solving Achievement** — Add details
+📫 **Email:** yatharthkashyap22@gmail.com  
+🌐 **LinkedIn:** [Yatharth Kashyap](https://www.linkedin.com/in/yatharth-kashyap-817167396)  
 
 ---
-
-<!-- ======================================================= -->
-<!--                     GOALS                               -->
-<!-- ======================================================= -->
-
-## 🎯 2026 Goals
-
-- [ ] Solve **300+ DSA problems**
-- [ ] Build **5+ production-ready projects**
-- [ ] Improve Java & DSA fundamentals
-- [ ] Learn Full Stack Development
-- [ ] Explore Artificial Intelligence
-- [ ] Contribute to Open Source
-- [ ] Participate in Hackathons
-- [ ] Secure a Software Development Internship
-
----
-
-<!-- ======================================================= -->
-<!--              CONTRIBUTION GRAPH                         -->
-<!-- ======================================================= -->
-
-## 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/yatharthkashyap22-lab/yatharthkashyap22-lab/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
-<!-- ======================================================= -->
-<!--                   PROFILE VIEWS                         -->
-<!-- ======================================================= -->
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yatharthkashyap22-lab&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-</p>
-
----
-
-<!-- ======================================================= -->
-<!--                  CONNECT                                -->
-<!-- ======================================================= -->
-
-## 🤝 Let's Connect
-
-I'm always excited to connect with other developers, students,
-and tech enthusiasts!
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/yatharth-kashyap-817167396">
-<img src="https://img.shields.io/badge/LinkedIn-Yatharth%20Kashyap-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:yatharthkashyap22@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-yatharthkashyap22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ <b>If you find my projects interesting, consider giving them a star!</b>
-
-</p>
-
-<p align="center">
-  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
-</p>
